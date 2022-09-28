@@ -1,6 +1,6 @@
 # Quiz App
 
-### URL : 
+### URL : https://micha2791.github.io/Quiz-App/
 
 ## Description
 a simple quiz application that allows a user to practice their skills in city capitals. It runs in the browser and feature dynamically updated HTML and CSS powered by JS.
